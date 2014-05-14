@@ -1,0 +1,2 @@
+The main example used in these notes is the Welcome class, 
+    developed in the WelcomeToJava Eclipse project. 
